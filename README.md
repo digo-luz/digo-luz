@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="diego-pic" height="150" style="border-radius:50px;" #src="https://pbs.twimg.com/profile_images/1413104657468215298/HSR5thTp_400x400.jpg">
+  <img align="right" alt="diego-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLWU4DiVnoCdFP0uWE6OCKV7cxdYoU2f33F5iOi4MLxXudQ26YfYemGlREdnHn-LiaI9ZDcge9289rWc8zcX8IGDq26JKAslW8BmJv-EuUV_LWU_LU94m-5U_rYNkj26TrgQ5bgkjHvU8ECAf0PS4in6Kw=s640-no?authuser=0">
 </div>
   
   ##
