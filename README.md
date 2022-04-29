@@ -9,19 +9,19 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Diego-Dkr" height="40" width="40" src="https://www.svgrepo.com/show/331370/docker.svg">
-  <img align="center" alt="Diego-Sh" height="40" width="40" src="https://www.svgrepo.com/show/353478/bash-icon.svg">
+  <img align="center" alt="Diego-Kub" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+
   <img align="center" alt="Diego-Zbx" height="40" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
   <img align="center" alt="Diego-Ela" height="40" width="40" src="https://symbols.getvecta.com/stencil_79/34_elastic-search-icon.96dc289cd3.svg">
   <img align="center" alt="Diego-Log" height="40" width="40" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8b679e63f2b49b27/5d082d93877575d0584761c0/logo-logstash-32-color.svg">
   <img align="center" alt="Diego-Kib" height="40" width="40" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg">
+  <img align="center" alt="Diego-Ans" height="50" width="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
+  <img align="center" alt="Diego-Trm" height="40" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="Diego-Run" height="40" width="40" src="https://www.vectorlogo.zone/logos/rundeck/rundeck-icon.svg"> 
+  <img align="center" alt="Diego-Sh" height="40" width="40" src="https://www.svgrepo.com/show/353478/bash-icon.svg">
+  <img align="center" alt="Diego-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   
-  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diego-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Diego-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Diego-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLWU4DiVnoCdFP0uWE6OCKV7cxdYoU2f33F5iOi4MLxXudQ26YfYemGlREdnHn-LiaI9ZDcge9289rWc8zcX8IGDq26JKAslW8BmJv-EuUV_LWU_LU94m-5U_rYNkj26TrgQ5bgkjHvU8ECAf0PS4in6Kw=s640-no?authuser=0">
 </div>
   
